@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     434917684709021697       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Tiny Tapeout Template Copy_Orion"      # Project title
+  title:        "Tiny Tapeout Template Copy_Orion "      # Project title
   author:       "Caspar.Jakobi"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Printing down the numbers from 1 to 8"      # One line description of what your project does
