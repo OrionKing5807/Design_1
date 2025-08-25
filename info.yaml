@@ -4,7 +4,7 @@ project:
   title:        "Tiny Tapeout Template Copy_Orion "      # Project title
   author:       "Caspar.Jakobi"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Printing down the numbers from 1 to 8."      # One line description of what your project does
+  description:  "Printing down the numbers from 1 to 8"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
